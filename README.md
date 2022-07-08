@@ -21,4 +21,4 @@ log는 `runBot.log`파일 뿐만 아니라 개인 블로그에도 업데이트 �
 - Ubuntu 20.04 Canonical
 - Oracle Cloud Infrastructure
     - VM.Standard.A1.Flex(ARM64)
-- Vscode - Remote SSH
+- VSCode - Remote SSH
