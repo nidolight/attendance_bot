@@ -1,4 +1,4 @@
-## 퀘이사존 출석체크봇
+## 🤖퀘이사존 출석체크봇
 
 자체적으로 [Cloudflare](https://www.cloudflare.com/ko-kr/)의 anti-bot page로 인해 일반적인 requests만으로는 우회가 어렵다.(javascript 구동 여부를 보고 차단: 403 forbidden 발생)
 
@@ -6,7 +6,7 @@
 
 ➡ 웹 브라우저의 동작을 직접 실행하는 `selenium`을 사용
 
-리눅스의 스케줄 관리 프로그램 `crontab`을 사용하여 매일 9시15분 마다 실행
+리눅스의 스케줄 관리 프로그램 `crontab`을 사용하여 매일 09시15분 마다 실행
 ```sh
 # path part
 PATH=/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/sbin:/sbin
